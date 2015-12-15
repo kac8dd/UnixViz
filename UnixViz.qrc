@@ -1,0 +1,28 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/hmc.png</file>
+        <file>images/p5-570.png</file>
+        <file>images/p6-570.png</file>
+        <file>images/p710_rear.png</file>
+        <file>images/p720.png</file>
+        <file>images/p720_rear.png</file>
+        <file>images/p730_rear.png</file>
+        <file>images/p740.png</file>
+        <file>images/p740_rear.png</file>
+        <file>images/p750.png</file>
+        <file>images/p750_rear.png</file>
+        <file>images/p750_top.png</file>
+        <file>images/p770.png</file>
+        <file>images/p770_rear.png</file>
+        <file>images/p770_top.png</file>
+        <file>images/p780.png</file>
+        <file>images/p780_rear.png</file>
+        <file>images/Fleur_icon.png</file>
+        <file>images/p710.png</file>
+        <file>images/p730.png</file>
+        <file>images/p780_top.png</file>
+        <file>images/server_rows.jpg</file>
+        <file>images/p6-570_both.png</file>
+        <file>images/hmc_diagram.jpg</file>
+    </qresource>
+</RCC>
